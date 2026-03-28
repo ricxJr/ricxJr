@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ricardo Junior
 
-<!--
-**ricxJr/ricxJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focado em React, TypeScript, Java e automação de workflows de desenvolvimento.
 
-Here are some ideas to get you started:
+## Sobre mim
+- Desenvolvimento front-end e back-end
+- Foco em produtividade, padronização e experiência do desenvolvedor
+- Interesse em tooling, integrações e arquitetura de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+
+## Projetos em destaque
+- [Nome do projeto 1](LINK)
+- [Nome do projeto 2](LINK)
+- [Nome do projeto 3](LINK)
+
+## Contato
+- [LinkedIn] www.linkedin.com/in/ricxjr

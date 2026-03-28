@@ -15,9 +15,9 @@ Full-Stack Developer focado em React, TypeScript, Java e automação de workflow
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ## Projetos em destaque
-- [Nome do projeto 1](LINK)
-- [Nome do projeto 2](LINK)
-- [Nome do projeto 3](LINK)
+- [vscode-objectscript] https://github.com/consistem/vscode-objectscript
+- [Missao_certificacao_M1_Estacio] https://github.com/ricxJr/Missao_certificacao_M1_Estacio
+- [auxilioDev] https://github.com/ricxJr/auxilioDev
 
 ## Contato
 - [LinkedIn] www.linkedin.com/in/ricxjr

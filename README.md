@@ -1,11 +1,11 @@
 # Ricardo Junior
 
-Full-Stack Developer focado em React, TypeScript, Java e automação de workflows de desenvolvimento.
+Full-Stack Developer com foco em React, TypeScript, Java e automação de workflows de desenvolvimento.
 
 ## Sobre mim
-- Desenvolvimento front-end e back-end
-- Foco em produtividade, padronização e experiência do desenvolvedor
-- Interesse em tooling, integrações e arquitetura de projetos
+Sou formado em Tecnólogo em Desenvolvimento Full-Stack, com pós-graduação em Engenharia de Software. Atuo no desenvolvimento de soluções front-end e back-end, com foco em produtividade, padronização, qualidade de código e experiência do desenvolvedor.
+
+Tenho interesse especial em tooling, integrações, arquitetura de projetos e otimização de fluxos de trabalho, buscando sempre construir soluções práticas, escaláveis e bem estruturadas.
 
 ## Stack
 ![React](https://img.shields.io/badge/React-20232A?logo=react)
@@ -15,9 +15,9 @@ Full-Stack Developer focado em React, TypeScript, Java e automação de workflow
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
 ## Projetos em destaque
-- [vscode-objectscript] https://github.com/consistem/vscode-objectscript
-- [Missao_certificacao_M1_Estacio] https://github.com/ricxJr/Missao_certificacao_M1_Estacio
-- [auxilioDev] https://github.com/ricxJr/auxilioDev
+- [vscode-objectscript](https://github.com/consistem/vscode-objectscript)
+- [Missao_certificacao_M1_Estacio](https://github.com/ricxJr/Missao_certificacao_M1_Estacio)
+- [auxilioDev](https://github.com/ricxJr/auxilioDev)
 
 ## Contato
-- [LinkedIn] www.linkedin.com/in/ricxjr
+- [LinkedIn](https://www.linkedin.com/in/ricxjr)

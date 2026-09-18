@@ -19,7 +19,7 @@ Tenho interesse especial em tooling, integrações, arquitetura de projetos e ot
 ## Projetos em destaque
 - [vscode-objectscript (Consistem)](https://github.com/consistem/vscode-objectscript)
 - [Missao_certificacao_M1_Estacio](https://github.com/ricxJr/Missao_certificacao_M1_Estacio)
-- [conflicts]([https://github.com/ricxJr/auxilioDev](https://github.com/ricxJr/conflicts))
+- [Conflicts](https://github.com/ricxJr/conflicts)
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/ricxjr)
